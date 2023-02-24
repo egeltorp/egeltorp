@@ -1,4 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/35803316/221186330-54754c27-a98e-4eae-9b4d-d96c6175f7ad.png)
+![banner](https://user-images.githubusercontent.com/35803316/221295218-326d6300-df09-4a78-b30c-31e858179fca.png)
 
 
 - 🔭 I’m currently working on my portfolio
