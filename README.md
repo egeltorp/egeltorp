@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/35803316/221186122-b857251c-0dee-4362-96ee-3cae29cee588.png)
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
@@ -10,4 +10,7 @@
 - ⚡ Fun fact: I also create indie games!
 - 🕹 Itch.io: https://egeltorp.itch.io/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeltorp)](https://github.com/anuraghazra/github-readme-stats)
+---
+> It is possible to commit no errors and still lose. That is not a weakness. That is life.
+
+— Captain Jean-Luc Picard
