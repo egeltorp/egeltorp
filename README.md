@@ -9,3 +9,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also create indie games!
 - 🕹 Itch.io: https://egeltorp.itch.io/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeltorp)](https://github.com/anuraghazra/github-readme-stats)
