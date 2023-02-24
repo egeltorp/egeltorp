@@ -8,4 +8,4 @@
 - 📫 How to reach me: github@egeltorp.anonaddy.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also create indie games!
-- Itch.io: https://egeltorp.itch.io/
+- 🕹 Itch.io: https://egeltorp.itch.io/
