@@ -1,5 +1,4 @@
-![banner](https://user-images.githubusercontent.com/35803316/221295218-326d6300-df09-4a78-b30c-31e858179fca.png)
-
+![banner](https://user-images.githubusercontent.com/35803316/223489916-b619f462-ea8f-41fc-91bd-d60c5e25dffe.png)
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
