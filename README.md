@@ -1,4 +1,3 @@
-![banner](https://user-images.githubusercontent.com/35803316/223489916-b619f462-ea8f-41fc-91bd-d60c5e25dffe.png)
 
 - ⚡ Fun fact: I create indie games!
 - 🕹 Itch.io: https://egeltorp.itch.io/
