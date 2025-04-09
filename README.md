@@ -6,6 +6,9 @@
 - 💬 Ask me about PS1 graphics, or Star Trek
 - 📫 How to reach me: buffe95@gmail.com
 
+
+[![My Skills](https://skillicons.dev/icons?i=bash,html,css,cs,unity,blender,)](https://skillicons.dev)
+
 ---
 > It is possible to commit no errors and still lose. That is not a weakness. That is life.
 
