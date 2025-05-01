@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on any fun video game related projects
 - 💬 Ask me about PS1 graphics, or Star Trek
-- 📫 How to reach me: buffe95@gmail.com
+- 📫 How to reach me: bsky.app/@egeltorp
 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,html,css,godot,unity,blender,)](https://skillicons.dev)
