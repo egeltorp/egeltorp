@@ -1,21 +1,16 @@
-# egeltorp
+<p align="center">
+  <br>
+  <samp>
+    Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://egeltorp.github.io/theodor-portfolio/">Theodor</a></b>.
+    <br>I'm a Computer Science Undergraduate Student from Stockholm.<br>
+  </samp>
+  <br>
+</p>
 
-Welcome to my GitHub profile. I do stuff.
-
-###
-
-- 🌱 I’m currently learning Python and GDScript
-- 🕹 Itch.io: [egeltorp](https://egeltorp.itch.io/)
-- 📫 How to reach me: [Bluesky](https://bsky.app/profile/egeltorp.com)
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=bash,html,css,python,godot,unity,blender,)](https://skillicons.dev)
-
-##
-> It is possible to commit no errors and still lose. That is not a weakness. That is life.
-
-— Captain Jean-Luc Picard
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bash,html,css,python,godot,unity,blender," width="400"/>
+    <br>
+</div>
 
 
 
