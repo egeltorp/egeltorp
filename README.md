@@ -8,7 +8,8 @@
 </p>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,html,css,typescript,python,godot,unity,blender," width="400"/>
+    <img src="https://skillicons.dev/icons?i=bash,html,css,typescript," width="400"/>
+    <img src="https://skillicons.dev/icons?i=python,godot,unity,blender," width="400"/>
     <br>
 </div>
 
