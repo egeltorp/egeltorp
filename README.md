@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://egeltorp.github.io/theodor-portfolio/">Theodor</a></b>.
-    <br>I'm a Student from Stockholm.<br>
+    <br>I'm an Engineering Student from Stockholm.<br>
   </samp>
   <br>
 </p>
